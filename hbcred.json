@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hummingbot-353603",
+  "private_key_id": "ff44775e515c3bf60bfe52bdb7c27a0b9ae84026",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDD9MMp9L8aB9nt\nOi+rSGkH0nbm19jr2RY+1bpDuQLDFcLOq6s0B5YTJ7k18u0P0IM5PMpICRJgeXrM\n1VmWXiorsqU1wxDrEUaN//8fRGKXvUrGylpqjSUNflOwF3obUXGbicDUCUQ7x5Zm\nym4UQcPYd2MVx5luzo1DRB78GuBgewmbPsv7kLvXOOQTismv2uJRSO+hWeHZz2rY\ntG0lkxDb84BIwaZeFuiGIolDYZ5V7aqmd+8VMMXql5mar/MgOoG/xDRHujE9kEZn\nBEbEW+oaB7JfNLNKnXPqivjpThWms7iX4qMs2E4qFzAWvnkIDM+KukT7HOMeoAMx\nUlitQQKhAgMBAAECggEAH8tTbTfOWAFlHSYfPOnbTM8bxrnH8wB+qQRRnBJlPdUG\njjTxatg+Q+5ikTvQtgutdviDk6uRJUEgqSKGziyKKBvszWvQj2t2qKycLu0QGDG4\n88c6Y2ZyWB2io4QzpkIRLlzsAhtczFxGbXgz4yqGhdVdKNgBb6ao6fygEGSl+lFD\nnv58+aHw2CipWOASu6T5u8lKEDTavIlj7kh7Y30oLK9DACDu25EKirYGr/8u0m2n\nnf+B2JGKnnh5RM5XNylkNEtAuMh7yqcOFLeqIaRMuLwi5HYoPrvGEvQ0IgYHTMOu\nm7onQwkCLno4Vwr3YJ78YL9hk1kqSDRS23mjL3lYCQKBgQDh9ZmN9LHSaYM6/ZNj\nyIuVcjzfydcjeS5h5AY3nvfWGRc4GF22cLEuvNJnMJu1EBIfZR8aKQR7iEhkq+7U\nFOebUh0YwuMu9haO6PVIv0uXtlO8GJ+jAfsZnos8nXvveyrQirSu9UyQeWOZkN3b\n84RxNrUhAIaYMBkucBYOoHUcxQKBgQDeAgSgq7ByqjWngg1pcwkERGnr3LBUre4r\n7rAecE/b+GFjLfjy6aHQX+M4i/HpkjYpH1mtmC202tNuoiIttK0D+cslrXkpzo0X\nZmxViVtUkUGLDlSGpoBpbCTt2Ur8LSwc7AvUABIlS/Zvq/4YXY4WFgJQ5aLbTL24\nYy/sRpZkLQKBgQDTCKZZRmettI2z0pCNaQe0k/T2rXQY1VzUYDrOR9IAS368DUW4\n1pckp4V6ipNiD5hdafwaWqStGyNBorJzsPJ+xboXHi0/9uYqorgzMTZQgyDBU94E\nSB1UWBaCjjLp/4aFLoaBwOe5JyY2jm4mttDDS+zu3abXDFT4Yga3snSuYQKBgHvv\nkHnJnwVENBPBLI+TopL5RlBfsSh0uKNZ6oPzmwFn1aYygenJt4XGIejtZy1HbGjk\nkYGxlMKD7siyRnZRiMzRZDEyeJN4NZe8m/ncZln9hSOF6nYI+WLg9nS5e3zwEtJK\njAfbykV79KU+1OjxQWLfAof6ykG2w6rt5FD4zvg5AoGAcEhTVtp/Gsyyt/wAvxvx\nBdJ1G9nB8ArhqMsJLBpkkb2tlZW+6aB2+1Ei53ASWr5LaNMpwzfmfH6yky+g/Nax\nNWtdbGDT8fC47/qtt2A5Oru9CsdMvn1LPqK5/PlJEc8VTvm2FOQ4kZUf8aHFpTIi\nGRDLyPFssF6FdH5zakavR3s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hummingbot@hummingbot-353603.iam.gserviceaccount.com",
+  "client_id": "109492645652771202639",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hummingbot%40hummingbot-353603.iam.gserviceaccount.com"
+}
